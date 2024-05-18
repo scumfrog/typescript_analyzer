@@ -36,10 +36,6 @@ node analysis.js [project_directory] [options]
 1. Clone the repository to your local machine.
 2. Install dependencies using `npm install`.
 
-### License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ### Author
 
 Guillermo de Angel
