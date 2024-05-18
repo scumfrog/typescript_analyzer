@@ -42,4 +42,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### Author
 
-[Guillermo de Angel]
+Guillermo de Angel
