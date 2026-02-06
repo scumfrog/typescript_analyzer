@@ -3,6 +3,7 @@
 Static analysis tool for TypeScript projects. Scans `.ts` and `.tsx` files and generates an interactive HTML report with metrics on lines of code, function counts, dependency mapping, cyclomatic complexity, and duplicate detection.
 
 ![Node.js](https://img.shields.io/badge/node-%3E%3D18-brightgreen)
+![License](https://img.shields.io/badge/license-GPL--3.0-blue)
 
 ---
 
@@ -209,3 +210,7 @@ Results: 20 passed, 0 failed
 ```
 
 ---
+
+## License
+
+GPL-3.0
