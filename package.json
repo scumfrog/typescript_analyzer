@@ -1,7 +1,7 @@
 {
-  "name": "ts-analyzer",
+  "name": "ts-audit",
   "version": "1.0.0",
-  "description": "Static analysis tool for TypeScript projects — generates interactive HTML reports",
+  "description": "Static analysis tool for TypeScript projects. Generates interactive HTML reports",
   "main": "src/index.js",
   "bin": {
     "ts-analyzer": "src/index.js"
