@@ -16,5 +16,5 @@
   },
   "devDependencies": {},
   "keywords": ["typescript", "analysis", "static-analysis", "complexity", "duplicates"],
-  "license": "MIT"
+  "license": "GPL-3.0"
 }
