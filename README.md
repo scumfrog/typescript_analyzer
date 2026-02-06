@@ -1,4 +1,4 @@
-# ts-analyzer
+# ts-audit
 
 Static analysis tool for TypeScript projects. Scans `.ts` and `.tsx` files and generates an interactive HTML report with metrics on lines of code, function counts, dependency mapping, cyclomatic complexity, and duplicate detection.
 
