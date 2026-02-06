@@ -107,7 +107,7 @@ The table supports click-to-sort on any column and a live text filter.
 ## Project Structure
 
 ```
-ts-analyzer/
+ts-audit/
 ├── src/
 │   ├── index.js              # Entry point & orchestration
 │   ├── cli.js                # Argument parsing & validation
