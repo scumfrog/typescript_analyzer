@@ -1,0 +1,20 @@
+{
+  "name": "ts-analyzer",
+  "version": "1.0.0",
+  "description": "Static analysis tool for TypeScript projects — generates interactive HTML reports",
+  "main": "src/index.js",
+  "bin": {
+    "ts-analyzer": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node tests/run.js"
+  },
+  "dependencies": {
+    "minimatch": "^9.0.0",
+    "minimist": "^1.2.8"
+  },
+  "devDependencies": {},
+  "keywords": ["typescript", "analysis", "static-analysis", "complexity", "duplicates"],
+  "license": "MIT"
+}
